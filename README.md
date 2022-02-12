@@ -1,6 +1,6 @@
 
 
-<h4 align="center">
+<h3 align="center">
 
 🛠️ Currenty building things with :
 
@@ -10,7 +10,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-</h4>
+</h3>
 
 ____
 
